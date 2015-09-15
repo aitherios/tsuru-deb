@@ -18,7 +18,7 @@ Else, you can always use these packages on Ubuntu via [Tsuru ppa](https://launch
 
 	% sudo apt-add-repository ppa:tsuru/ppa
 	% sudo apt-get update
-	% sudo apt-get install tsuru
+	% sudo apt-get install tsuru-client
 
 ### Debian wheezy (7.x stable)
 
@@ -44,7 +44,7 @@ Debian wheezy APT source list:
 Run ``apt-get update``, you can install ``tsuru`` for Debian:
 
 	% sudo apt-get update
-	% sudo apt-get install tsuru
+	% sudo apt-get install tsuru-client
 
 ##Building locally
 
